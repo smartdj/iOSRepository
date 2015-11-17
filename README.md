@@ -1100,8 +1100,10 @@ fork from:[http://github.ibireme.com/github/list/ios/#](http://github.ibireme.co
 		<td><a href="">LayerSprites</a></td>
 		<td>加载精灵图 (Sprite)			</td>
 	</tr>
-##图像显示/解析#
+</table>
+##图像显示/解析##
 <table>
+
 	<tr>
 		<td><a href="">Concorde</a></td>
 		<td>利用libjpeg-turbo来更快速地解析JPEG,并支持边下载边解析&显示			</td>
